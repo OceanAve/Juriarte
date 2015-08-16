@@ -1,2 +1,3 @@
 # Juriarte
-Jesus Uriariarte personal portfolio
+Jesus Uriarte portfolio
+Website includes several galleries
